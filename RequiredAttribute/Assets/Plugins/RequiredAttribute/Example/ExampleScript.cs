@@ -10,7 +10,7 @@ public class ExampleScript : MonoBehaviour
     public Vector3 testDefault; // I said, ANY type!
 
     [Required]
-    public Vector3 testInitialized = Vector3.one; // Once it was been initialized, the color disappears
+    public Vector3 testInitialized = Vector3.one; // Once it has been initialized, the color disappears
 
     public MyClass myClass; // Works with custom types!
 
