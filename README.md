@@ -6,7 +6,7 @@ Especially useful if you work with forgetful people! :)
 
 ## Getting Started
 
-For a quick import into an existing project, just get the UnityPackage.
+For a quick import into an existing project, just get the [UnityPackage](RequiredAttributePackage.unitypackage).
 
 The RequiredAttribute folder is an empty project with only the plugin imported and some examples! :)
 
